@@ -79,6 +79,5 @@ Você pode:
 
 ## 👨‍💻 Autor
 
-Feito com dedicação por **[Seu Nome Aqui]**  
-📫 [Seu LinkedIn ou email]  
+Feito com dedicação por **Andreson Souza** 
 ⭐ Se esse repositório te ajudar, deixe uma estrela para apoiar!
