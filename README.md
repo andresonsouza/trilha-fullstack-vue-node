@@ -14,7 +14,7 @@ A trilha está dividida por semanas, abordando os principais tópicos para se to
 | Semana | Conteúdo | Status |
 |--------|----------|--------|
 | 01     | Fundamentos de HTML e CSS | ✅ Em andamento |
-| 02     | Fundamentos de JavaScript moderno (ES6+) | 🔲 Em andamento |
+| 02     | Fundamentos de JavaScript moderno (ES6+) | 🔲 |
 | 03     | TypeScript na prática | 🔲 |
 | 04     | Vue 3 + Composition API + TypeScript | 🔲 |
 | 05     | Backend com Node.js + PostgreSQL + JWT | 🔲 |
