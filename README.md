@@ -30,13 +30,14 @@ A trilha está dividida por semanas, abordando os principais tópicos para se to
 
 ```
 trilha-fullstack-vue-node/
-├── item-01-javascript/
-├── item-02-typescript/
-├── item-03-vue3/
-├── item-04-node-api/
-├── item-05-projeto-fullstack/
-├── item-06-testes/
-└── item-07-deploy-docker/
+├── item-01-html-css/
+├── item-02-javascript/
+├── item-03-typescript/
+├── item-04-vue3/
+├── item-05-node-api/
+├── item-06-projeto-fullstack/
+├── item-07-testes/
+└── item-08-deploy-docker/
 ```
 
 Cada pasta contém:
