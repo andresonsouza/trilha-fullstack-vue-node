@@ -60,7 +60,7 @@ Cada pasta contém:
 ## 📚 Fontes de Estudo
 
 - [Curso JavaScript/TypeScript – Luiz Otávio Miranda](https://www.udemy.com/course/javascript-typescript-do-basico-ao-avancado/)
-- [Curso Vue 3 – Jorge Sant Ana](https://www.udemy.com/course/vue3-composition-api-typescript/)
+- [Web Design Completo: HTML, CSS, Javascript, Vue JS e Git](https://indra.udemy.com/course/desenvolvedor-web-front-end-completo-html-css-javascript-vue-js-e-git/)
 - [API REST com Node – Valdir Cezar](https://www.udemy.com/course/api-nodejs-typescript/)
 - [Testes Automatizados – Guilherme Rodz](https://www.udemy.com/course/testes-automatizados-com-node/)
 - [Docker – Willian Justen](https://www.udemy.com/course/docker-e-docker-compose/)
