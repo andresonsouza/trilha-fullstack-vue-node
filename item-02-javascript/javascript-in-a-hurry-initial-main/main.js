@@ -1,1 +1,1 @@
-console.log("Welcome to the Javascript Flash Course!");
+document.getElementById('greeting').innerHTML = "Hello World!";
