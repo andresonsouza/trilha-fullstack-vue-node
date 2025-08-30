@@ -16,7 +16,7 @@ A trilha está dividida por semanas, abordando os principais tópicos para se to
 | 01     | Fundamentos de HTML e CSS | ✅ Em andamento |
 | 02     | Fundamentos de JavaScript moderno (ES6+) | ✅ Em andamento |
 | 03     | TypeScript na prática | ✅ Em andamento |
-| 04     | Vue 3 + Composition API + TypeScript | 🔲 |
+| 04     | Vue 3 + Composition API + TypeScript | ✅ Em andamento |
 | 05     | Backend com Node.js + PostgreSQL + JWT | 🔲 |
 | 06     | Integração Fullstack (Vue + Node + Auth) | 🔲 |
 | 07     | Testes Automatizados com Jest e Cypress | 🔲 |
